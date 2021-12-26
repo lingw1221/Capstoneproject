@@ -1,7 +1,10 @@
 The datasets I've explored for capstone project are as following:
   1. The flikr dataset uploaded in this repo: Flicker8k_Dataset and Flickr8k_text 
-     This data set is 1 GB in size. 
+     This data set is 1 GB in size.
+     https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/
+     
   2. The flickr30k dataset is the same dataset but larger in size (4GB). The data is available in this link: 
       https://www.kaggle.com/hsankesara/flickr-image-dataset
+      
   3. COCO image dataset: 
       https://cocodataset.org/#download
